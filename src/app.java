@@ -32,7 +32,7 @@ public class app {
 			String surName = req.queryParams("surName");
 
 
-			res.redirect("clients/thanksyou");
+			res.redirect("clients/thankyou");
 			return "";
 		});
 		
